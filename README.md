@@ -15,6 +15,9 @@
 - [SwiperJS](https://swiperjs.com/) for testimonials
 - [AOS](https://michalsnik.github.io/aos/) for scroll animations
 
+## Credits
+See [ATTRIBUTION.md](ATTRIBUTION.md) for detailed credits of third-party assets.
+
 ## How to Use
 1. Clone the repository
 2. Open `index.html` in your browser
